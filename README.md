@@ -53,13 +53,12 @@ npm install
 npm start
 ```
 
-Create a file called .env in the backend folder.
-Inside it write this :
-
+Create a file called .env in the backend folder by copying the example file:
 ```sh
-MONGO_URL = mongodb://127.0.0.1/school
+cp .env.example .env
 ```
-If you are using MongoDB Compass you can use this database link but if you are using MongoDB Atlas then instead of this link write your own database link.
+Open the newly created `.env` file and add your MongoDB connection string.
+If you are using MongoDB Compass you can use the default database link but if you are using MongoDB Atlas then instead of this link write your own database link.
 
 Terminal 2: Setting Up Frontend
 ```sh
