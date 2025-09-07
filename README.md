@@ -190,3 +190,6 @@ Don't forget to leave a star for this project if you found the solution helpful.
 * Render - server side
 * Netlify - client side
 
+# 2025 Updates
+- Pushed the project to a new GitHub repository: [https://github.com/bravetux/MERN_2025.git](https://github.com/bravetux/MERN_2025.git)
+- Updated project documentation.
